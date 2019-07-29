@@ -7,4 +7,4 @@
 - Html, Css, Javascript
 - Bootstrap
 
-Deployed at : https://www.museer.herokuapp.com
+Deployed at : https://museer.herokuapp.com
